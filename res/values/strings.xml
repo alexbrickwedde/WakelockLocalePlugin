@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WakeLock Locale Plug-in</string>
+    <string name="plugin_name">WakeLock</string>
+    <string name="message_hint">WakeLock Plugin for Locale and others</string>
+
+    <string name="wakelockcpucontent">CPU WakeLock by WakeLock Locale Plugin</string>
+    <string name="wakelockcputitle">CPU WakeLock</string>
+    
+    <string name="wakelockfullcontent">Full WakeLock (Screen+CPU) by WakeLock Locale Plugin</string>
+    <string name="wakelockfulltitle">Full WakeLock</string>
+</resources>
